@@ -64,7 +64,7 @@ Visit our website https://***.app/#apps and select the "Asia" filter to see all 
 - [x] Multi-language.
 - [x] Sync your configuration between multiple computers.
 - [x] Master Password.
-- [x] Lock Rambox if you will be away for a period of time.
+- [x] Lock Asia if you will be away for a period of time.
 - [x] Don't disturb mode.
 - [x] Reorder applications in the tab bar.
 - [x] Notification badge in the tab.
@@ -94,7 +94,7 @@ You are always welcome to check the code! ;)
 | ---------------- | :----------------------------------------------------------------------------------------: |
 | Credit Cards     | [HERE](https://www.paypal.com/paypalme/buxarnet) 																					|
 | PayPal			     | [HERE](https://www.paypal.com/paypalme/buxarnet) 																					|
-| Cryptocurrencies | [HERE](BitCoin 13DiqXuWkLwThkXQHShtBnwvEcvHHWWAg4)		   										                |
+| Cryptocurrencies | 			(BitCoin 13DiqXuWkLwThkXQHShtBnwvEcvHHWWAg4)		   										                |
 | Yandex     			 | [HERE](https://yoomoney.ru/to/4100173831748) 																							|
 
 ## Translations
@@ -125,7 +125,7 @@ See [Contributing.md](./CONTRIBUTING.md) for more detailed information about get
 
 ## Disclosure
 
-Rambox is not affiliated with any of the messaging apps offered.
+Asia is not affiliated with any of the messaging apps offered.
 
 ## Licence
 
