@@ -1,45 +1,36 @@
-# EOL
-The Community Edition of Rambox is no longer maintained. We highly recommend that you update to the new version of Rambox, which has a FREE plan with all the features you already use and much more!
 
-Visit: https://rambox.app/download
-
-Thank you so much for all the users who contribute to this project all these years.
-
-[Read our blog post to know more about our new Rambox.](https://rambox.medium.com/hello-2022-hello-new-rambox-4bdef5d6c3b8)
 
 ---
 
 <div align="center">
   <h1>
     <br />
-    <a href="https://rambox.pro"><img src="./resources/Icon.png" width="256px" alt="Rambox" /></a><br />
-    Rambox CE
+    <a href="https://rambox.pro"><img src="./resources/Icon.png" width="256px" alt="Asia" /></a><br />
+    Asia
     <br /><br/>
   </h1>
 
   <h4>Free, Open Source and Cross Platform messaging and emailing app that combines common web applications into one.</h4>
+	<h4>Бесплатное кроссплатформенное приложение для обмена сообщениями и электронной почтой с открытым исходным кодом, которое объединяет распространенные веб-приложения в одно.</h4>
 
   <p>
-    <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=WU75QWS7LH2CA" target="_blank"><img src="https://img.shields.io/badge/Donate-PayPal-green.svg" alt="Donate with PayPal" /></a>
+    <a href="https://www.paypal.com/paypalme/buxarnet" target="_blank"><img src="https://img.shields.io/badge/Donate-PayPal-green.svg" alt="Donate with PayPal" /></a>
     <a href="https://www.gnu.org/licenses/gpl-3.0.en.html" target="_blank"><img src="https://img.shields.io/github/license/saenzramiro/rambox.svg" alt="GNU GPL v3" /></a>
-    <a href="https://gitter.im/saenzramiro/rambox" target="_blank"><img src="https://badges.gitter.im/saenzramiro/rambox.svg" alt="Gitter" /></a>
-    <a href="https://github.com/saenzramiro/rambox/releases/latest" target="_blank">
+    <a href="https://gitter.com/OU-BuxarNET/Asia/" target="_blank"><img src="https://badges.gitter.im/saenzramiro/rambox.svg" alt="Gitter" /></a>
+    <a href="https://github.com/OU-BuxarNET/Asia/releases/latest" target="_blank">
       <img src="https://img.shields.io/github/release/saenzramiro/rambox.svg" alt="Release" />
     </a>
     <a target="_blank" href="https://crowdin.com/project/rambox"><img src="https://d322cqt584bo4o.cloudfront.net/rambox/localized.svg" /></a>
   </p>
   <p>
-    <a href="https://travis-ci.org/saenzramiro/rambox" target="_blank"><img src="https://travis-ci.org/saenzramiro/rambox.svg?branch=master" alt="Travis CI" /></a>
-    <a href="https://ci.appveyor.com/project/saenzramiro/rambox" target="_blank"><img src="https://ci.appveyor.com/api/projects/status/3kk9ixjgxwrh7yfy?svg=true" alt="AppVeyor CI" /></a>
-    <a href="https://david-dm.org/saenzramiro/rambox" title="Dependency status"><img src="https://david-dm.org/saenzramiro/rambox.svg" /></a>
-    <a href="https://david-dm.org/saenzramiro/rambox#info=devDependencies" title="devDependency status"><img src="https://david-dm.org/saenzramiro/rambox/dev-status.svg" /></a>
+    
   </p>
 
-  <h5>Available for Windows, Mac and Linux.</h5>
+  <h5>Available for Windows, Android, Mac and Linux.</h5>
 
-  <h5><a href="https://rambox.pro/#ce" target="_blank"><img src="https://cdn.rawgit.com/saenzramiro/rambox/gh-pages/images/img-download.svg" width="250" alt="DOWNLOAD HERE" /></a></h5>
+  <h5><a href="" target="_blank"><img src="https://cdn.rawgit.com/saenzramiro/rambox/gh-pages/images/img-download.svg" width="250" alt="DOWNLOAD HERE" /></a></h5>
 
-  <h6>Logo designed by <a href="https://www.linkedin.com/in/andriyyurchenko/" target="_blank">Andriy Yurchenko</a></h6>
+  
 </div>
 
 ---
@@ -62,11 +53,11 @@ Thank you so much for all the users who contribute to this project all these yea
 
 ## Screenshot
 
-![Rambox](./resources/screenshots/mac.png)
+![Asia](./resources/screenshots/mac.png)
 
 ## Apps available
 
-Visit our website https://rambox.app/#apps and select the "Community-Edition" filter to see all the apps available.
+Visit our website https://***.app/#apps and select the "Asia" filter to see all the apps available.
 
 ## Features
 
@@ -92,7 +83,7 @@ Visit our website https://rambox.app/#apps and select the "Community-Edition" fi
 No personal information will be saved
 
 Sessions will persist using the [partition:persist](https://electronjs.org/docs/api/webview-tag#partition) attribute for Webviews.
-So every time you open Rambox, your sessions will keep alive until you remove the service.
+So every time you open Asia, your sessions will keep alive until you remove the service.
 
 Sync feature use Auth0 for Single Sign On & Token Based Authentication and to store the services that user is using (and the configuration for each service).
 You are always welcome to check the code! ;)
@@ -101,25 +92,27 @@ You are always welcome to check the code! ;)
 
 | Type             | URL/Wallet                                                                                 |
 | ---------------- | :----------------------------------------------------------------------------------------: |
-| Credit Cards     | [HERE](https://rambox.app/donate.html) |
-| Cryptocurrencies | [HERE](https://www.vaulty.io/v/b6480279-af28-4855-868c-17e5cb0ae7fa)                       |
+| Credit Cards     | [HERE](https://www.paypal.com/paypalme/buxarnet) 																					|
+| PayPal			     | [HERE](https://www.paypal.com/paypalme/buxarnet) 																					|
+| Cryptocurrencies | [HERE](BitCoin 13DiqXuWkLwThkXQHShtBnwvEcvHHWWAg4)		   										                |
+| Yandex     			 | [HERE](https://yoomoney.ru/to/4100173831748) 																							|
 
 ## Translations
 
-Help us translate Rambox on <https://crowdin.com/project/rambox/invite>.
+Help us translate Asia on <https://crowdin.com/project/Asia/invite>.
 
-## [Install on Linux - Steps](https://github.com/ramboxapp/community-edition/wiki/Install-on-Linux)
+## [Install on Linux - Steps](https://github.com/OU-BuxarNET/Asia/wiki/Install-on-Linux)
 
 ## [Contributing](./CONTRIBUTING.md)
 
-Want to report a bug, request a feature, contribute to or translate Rambox?
+Want to report a bug, request a feature, contribute to or translate Asia?
 We need all the help we can get!
 Fork and work!
 
 ### Quickstart
 
 ```shell
-git clone https://github.com/saenzramiro/rambox.git
+git clone https://github.com/OU-BuxarNET/Asia.git
 cd rambox
 npm install
 sencha app watch
@@ -136,4 +129,4 @@ Rambox is not affiliated with any of the messaging apps offered.
 
 ## Licence
 
-[GNU GPL v3](https://github.com/ramboxapp/community-edition/blob/master/LICENSE)
+[GNU GPL v3](https://github.com/OU-BuxarNET/Asia/blob/master/LICENSE)
