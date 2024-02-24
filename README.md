@@ -6,7 +6,7 @@
   <h1>
     <br />
     <a href="https://rambox.pro"><img src="./resources/Icon.png" width="256px" alt="Asia" /></a><br />
-    Asia
+    Asya
     <br /><br/>
   </h1>
 
@@ -16,8 +16,8 @@
   <p>
     <a href="https://www.paypal.com/paypalme/buxarnet" target="_blank"><img src="https://img.shields.io/badge/Donate-PayPal-green.svg" alt="Donate with PayPal" /></a>
     <a href="https://www.gnu.org/licenses/gpl-3.0.en.html" target="_blank"><img src="https://img.shields.io/github/license/saenzramiro/rambox.svg" alt="GNU GPL v3" /></a>
-    <a href="https://gitter.com/OU-BuxarNET/Asia/" target="_blank"><img src="https://badges.gitter.im/saenzramiro/rambox.svg" alt="Gitter" /></a>
-    <a href="https://github.com/OU-BuxarNET/Asia/releases/latest" target="_blank">
+    <a href="https://gitter.com/OU-BuxarNET/Asya/" target="_blank"><img src="https://badges.gitter.im/saenzramiro/rambox.svg" alt="Gitter" /></a>
+    <a href="https://github.com/OU-BuxarNET/Asya/releases/latest" target="_blank">
       <img src="https://img.shields.io/github/release/saenzramiro/rambox.svg" alt="Release" />
     </a>
     <a target="_blank" href="https://crowdin.com/project/rambox"><img src="https://d322cqt584bo4o.cloudfront.net/rambox/localized.svg" /></a>
@@ -53,18 +53,18 @@
 
 ## Screenshot
 
-![Asia](./resources/screenshots/mac.png)
+![Asya](./resources/screenshots/mac.png)
 
 ## Apps available
 
-Visit our website https://***.app/#apps and select the "Asia" filter to see all the apps available.
+Visit our website https://***.app/#apps and select the "Asya" filter to see all the apps available.
 
 ## Features
 
 - [x] Multi-language.
 - [x] Sync your configuration between multiple computers.
 - [x] Master Password.
-- [x] Lock Asia if you will be away for a period of time.
+- [x] Lock Asya if you will be away for a period of time.
 - [x] Don't disturb mode.
 - [x] Reorder applications in the tab bar.
 - [x] Notification badge in the tab.
@@ -83,7 +83,7 @@ Visit our website https://***.app/#apps and select the "Asia" filter to see all 
 No personal information will be saved
 
 Sessions will persist using the [partition:persist](https://electronjs.org/docs/api/webview-tag#partition) attribute for Webviews.
-So every time you open Asia, your sessions will keep alive until you remove the service.
+So every time you open Asya, your sessions will keep alive until you remove the service.
 
 Sync feature use Auth0 for Single Sign On & Token Based Authentication and to store the services that user is using (and the configuration for each service).
 You are always welcome to check the code! ;)
@@ -99,21 +99,21 @@ You are always welcome to check the code! ;)
 
 ## Translations
 
-Help us translate Asia on <https://crowdin.com/project/Asia/invite>.
+Help us translate Asya on <https://crowdin.com/project/Asya/invite>.
 
-## [Install on Linux - Steps](https://github.com/OU-BuxarNET/Asia/wiki/Install-on-Linux)
+## [Install on Linux - Steps](https://github.com/OU-BuxarNET/Asya/wiki/Install-on-Linux)
 
 ## [Contributing](./CONTRIBUTING.md)
 
-Want to report a bug, request a feature, contribute to or translate Asia?
+Want to report a bug, request a feature, contribute to or translate Asya?
 We need all the help we can get!
 Fork and work!
 
 ### Quickstart
 
 ```shell
-git clone https://github.com/OU-BuxarNET/Asia.git
-cd rambox
+git clone https://github.com/OU-BuxarNET/Asya.git
+cd Asya
 npm install
 sencha app watch
 npm start
@@ -125,8 +125,8 @@ See [Contributing.md](./CONTRIBUTING.md) for more detailed information about get
 
 ## Disclosure
 
-Asia is not affiliated with any of the messaging apps offered.
+Asya is not affiliated with any of the messaging apps offered.
 
 ## Licence
 
-[GNU GPL v3](https://github.com/OU-BuxarNET/Asia/blob/master/LICENSE)
+[GNU GPL v3](https://github.com/OU-BuxarNET/Asya/blob/master/LICENSE)
